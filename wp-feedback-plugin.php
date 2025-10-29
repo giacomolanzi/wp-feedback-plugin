@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: WP Feedback Plugin (AJAX)
- * Description: Form feedback via shortcode + lista admin con paginazione AJAX. Tabella custom, WP Coding Standards.
+ * Description: Form feedback via shortcode + lista admin con paginazione AJAX.
  * Version:     1.0.0
  * Author:      Giacomo Lanzi (Plan B Project)
  * License:     GPL-2.0+
@@ -172,7 +172,7 @@ final class WP_Feedback_Plugin
     }
 
     /**
-     * Shortcode: Lista entries (admin-only). Non precarica: mostra pulsante.
+     * Shortcode: Lista entries (admin-only). Non precarica entries.
      */
     public function render_list_shortcode(): string
     {
