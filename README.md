@@ -18,8 +18,5 @@ Sviluppato da Giacomo Lanzi — Plan B Project.
    - `Feedback` con lo shortcode `[feedback_form]`
    - `Feedback Entries` con lo shortcode `[feedback_list]` (visibile solo agli admin)
 
-## Contributi
-Se vuoi aggiungere miglioramenti (es. blocco Gutenberg, vanilla JS, tests), apri una PR.
-
 ## Licenza
 GPL-2.0 — vedi `LICENSE`.
